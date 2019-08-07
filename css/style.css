@@ -138,6 +138,10 @@ img {
   font-size: 1.5rem;
 }
 
+#about-title {
+  font-color: #333;
+}
+
 .section-c .gallery {
   display: grid;
   grid-template-columns: repeat(5, 1fr);
