@@ -1,7 +1,7 @@
 :root {
   --primary-color: #333;
   --secondary-color: #444;
-  --overlay-color: rgba(105, 120, 140);
+  --overlay-color: rgba(105, 120, 140, 0.7);
 }
 
 * {
