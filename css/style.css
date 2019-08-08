@@ -84,6 +84,11 @@ img {
   font-size: 3rem;
 }
 
+#subheader {
+  font-size: 1em;
+  font-style: italic;
+}
+
 .section-a {
   margin: 2rem 0;
 }
